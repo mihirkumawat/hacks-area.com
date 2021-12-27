@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.infogather {
+	letter-spacing: 2.4px;
+}
+.list h1{
+	font-weight: 500;
+	font-size: 35px;
+	text-align: center;
+	color: #364D4A  ;
+	font-family: 'Yuji Hentaigana Akari', cursive;;
+	margin-left: 400x;
+	cursor: pointer;
+
+}
+.list u{
+	text-decoration: underline;
+	border-bottom-color: #fff
+}
+.infogather h2{
+	font-size: 27px;
+	font-weight: 300;
+	text-align: initial;
+	margin-left: 300px;
+	color: #5E6D6B;
+	font-family: 'Lobster', cursive;
+}
+.infogather li{
+	font-weight: 250;
+	font-size: 20px;
+	margin-left: 30px;
+	color: #101111 ;
+	font-family: 'Kanit', sans-serif;
+}
+.infogather p{
+	font-size: 23px;
+	font-weight: 90;
+	text-align: initial;
+	margin-left: 130px;
+	color: #364D4A;
+	font-family: 'PT Sans', sans-serif;
+} 
+body {
+	background: url(codetext.jpg);
+	background-size: cover;
+	display: smooth;
+	background-attachment: fixed;
+}
+.infogather hr{
+	background-color:  #17202A;
+	height: 1.5px;
+	border: none;
+
+}
+ 
